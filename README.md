@@ -65,5 +65,4 @@ The dataset includes 365 daily records for the year 2019 with the following key 
 
 ---
 
-## 📂 Project Structure
 
